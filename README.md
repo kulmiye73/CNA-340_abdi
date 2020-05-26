@@ -3,10 +3,10 @@
 # Project Title 
 
 
-abdi workED  on project python sratchy-1.PY
+ on project python sratchy-1.PY
 
 ## Getting Started
-this project can run in your computer if you using pycharm integreted development inviroment
+this project can run in your loal computer if you using pycharm integreted development inviroment
 
 
 ### Prerequisites
@@ -30,4 +30,4 @@ you can run in command line
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+i wached many video from class lecture and it helps me
